@@ -1,2 +1,5 @@
-# Recording-JS-TS
-All Youtube recording
+# Data-Structure-Course
+
+```bash
+npm install
+```
